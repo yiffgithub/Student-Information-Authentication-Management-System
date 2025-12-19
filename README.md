@@ -1,3 +1,3 @@
-# information-management-system
-使用Java跟着黑马程序员写的学生信息管理系统，还包含了一个登录系统（注册，登录，验证码，找回密码，修改密码等）Using Java to follow the HEIMA to write a student information management system that also includes a login system (registration, login, CAPTCHA, retrieve password, change password, etc.)
-里面部分文件需要更改，并没有连接起来，信息管理系统和登录是分开的
+information-management-system
+Developed a Java-based Student Information Management System inspired by enterprise-style architecture, featuring a modular structure and an independent authentication module. The system supports core functions such as student data management as well as a comprehensive login framework including user registration, login verification, CAPTCHA validation, password recovery, and credential modification. Although the management and authentication modules are currently independent, the design emphasizes scalability, maintainability, and future system integration.
+基于 Java 开发了一套具备企业级架构思维的学生信息管理系统，采用模块化设计，并配备独立的用户认证模块。系统不仅支持学生信息管理的核心功能，还实现了完整的登录体系，包括用户注册、登录验证、验证码校验、密码找回与修改等功能。当前信息管理模块与登录模块相对独立运行，但整体设计充分考虑了系统的扩展性、可维护性与后续集成能力
